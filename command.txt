@@ -1,0 +1,5 @@
+跑防禦
+!python enhanced_defense_system.py --csv jailbreak_evaluation_results.csv --model "C:/Users/user/Desktop/rnn/toxigen_model" --output results_outputs_v1 --ollama-url http://localhost:11434 --ollama-model llama3.1:8b --replacement-threshold low
+
+跑streamlit
+python -m streamlit run streamlit_app.py
