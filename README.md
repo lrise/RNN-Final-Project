@@ -6,6 +6,8 @@ Download the model from : [Google Drive Link](https://drive.google.com/drive/fol
 ## Place the model directly to the project root directory:
 Place the model files to the current directory
 After that, your directory structure should look like:
+
+```bash
 rnn-final-project/
 ├── analysis_results_toxicity=0.3/
 ├── analysis_results_toxicity=0.5/
@@ -19,6 +21,7 @@ rnn-final-project/
 ├── Toxigen_DeBerta_v3.ipynb
 ├── enhanced_defense_system.py
 └── ... (other files)
+```
 
 ## Run 
 ```bash
